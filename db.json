@@ -1,0 +1,203 @@
+{
+  "danh-muc": [
+    {
+      "id": "dongho1",
+      "name": "BIG BANG MXM18 SANG BLEU 39",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/nbhJ0Jy/21-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/6PZwDyZ/product-16-1024x1024.jpg"}
+       
+      ],
+      "category": ["dong-ho-nam", "san-pham-hot"],
+      "price": 739370000
+    },
+    {
+      "id": "dongho2",
+      "name": "BULOVA CORPORATION AUTOMATIC MEN’S WATCH 49MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/YjN1WhT/product-11-large-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/7b66y55/product-13-large-480x480.jpg"},
+        {"id":"image3","url":"https://i.ibb.co/7ShkJsj/product-25-large-480x480.jpg"}
+      ],
+      "category": ["dong-ho-nu", "san-pham-hot","sale","rolex"],
+      "price": 14000000
+    },
+    {
+      "id": "dongho3",
+      "name": "BULOVA MARINE STAR DIAMOND WATCH 32 MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/gS5T3NZ/27-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/GWB3Scr/11-480x480.jpg"}
+   
+      ],
+      "category": ["dong-ho-nu","rolex"],
+      "price": 14000000
+    },
+    {
+      "id": "dongho4",
+      "name": "CARTIER W6920071 BALLON BLEU DE CERTIER WATCH 33MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/vJQ2QmF/29-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/BrwWxPL/7-480x480.jpg"}
+   
+      ],
+      "category": ["dong-ho-nu"],
+      "price": 156980000
+    },
+
+    {
+      "id": "dongho5",
+      "name": "FOSSIL ME3104 TOWNSMAN AUTOMATIC LEATHER WATCH 44MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/vJQ2QmF/29-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/7ShkJsj/product-25-large-480x480.jpg"}
+   
+      ],
+      "category": ["casio","dong-ho-nam","sale","casio"],
+      "price": 5800000
+    },
+    {
+      "id": "dongho6",
+      "name": "FREDERIQUE CONSTANT FC-312V4S4 SLIMLINE AUTO WATCH 40MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/gJjyGTG/22-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/QDv3YzP/20-480x480.jpg"},
+        {"id":"image3","url":"https://i.ibb.co/WKHVDgH/21-480x480.jpg"}
+   
+      ],
+      "category": ["casio","dong-ho-nam","sale"],
+      "price": 5079000 
+    },
+    {
+      "id": "dongho7",
+      "name": "LONGINES MASTER WATCH 38.5MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/p1yhXv2/3-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/q7XDFTm/product-21-large-480x480.jpg"}
+        
+   
+      ],
+      "category": ["rolex","dong-ho-nam"],
+      "price": 75640000 
+    },
+    {
+      "id": "dongho8",
+      "name": "MICHAEL KORS BRECKEN CHRONOGRAPH WATCH 44MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/1n8ZjV6/product6-20a32b81-5765-41f0-96da-606bb1ce5ed8-large-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/TvwYhpN/product-23-large-480x480.jpg"},
+        {"id":"image3","url":"https://i.ibb.co/q7XDFTm/product-21-large-480x480.jpg"},
+        {"id":"image4","url":"https://i.ibb.co/7b66y55/product-13-large-480x480.jpg"}
+        
+   
+      ],
+      "category": ["sale,dong-ho-nam,citizen,san-pham-hot"],
+      "price": 6470000 
+    },
+    {
+      "id": "dongho9",
+      "name": "MICHAEL KORS LAURYN CELESTIAL PAVÉ PLUM-TONE 38MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/D9Nfpjt/12-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/P9CY8ZN/24-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["sale","dong-ho-nam","san-pham-hot","casio"],
+      "price": 819000  
+    },
+    {
+      "id": "dongho10",
+      "name": "MICHAEL KORS MINI SOFIE PAVÉ PEACOCK WATCH 36MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/Yb52Kz7/2-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/NLVJNdb/25-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["casio","dong-ho-nu","citizen","rolex"],
+      "price": 11090000  
+    },
+   
+    {
+      "id": "dongho11",
+      "name": "MOVADO MUSEUM 70TH ANNIVERSARY SPECIAL EDITION WATCH 35MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/fQ3fbPv/17-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/mJxGTt6/26-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["dong-ho-nu"],
+      "price": 8330000   
+    },
+    {
+      "id": "dongho12",
+      "name": "OMEGA DE VILLE PRESTIGE WATCH 39.5MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/c8BhTXs/16-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/2dZWLtb/18-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["dong-ho-nu","sale","san-pham-hot","citizen"],
+      "price": 11900000   
+    },
+    {
+      "id": "dongho13",
+      "name": "OMEGA SEAMASTER 39MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/TvwYhpN/product-23-large-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/NmcCJvv/product-14-1024x1024-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["dong-ho-nam"],
+      "price": 238700000   
+    },
+    {
+      "id": "dongho14",
+      "name": "OMEGA SEAMASTER AQUA TERRA WATCH 34MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/DbtW7Sr/30-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/vJQ2QmF/29-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["dong-ho-nam","citizen"],
+      "price": 423150000   
+    },
+    {
+      "id": "dongho15",
+      "name": "TISSOT LE LOCLE T006 AUTO WATCH 39MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/D9Nfpjt/12-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/p1yhXv2/3-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["dong-ho-nam","citizen","sale"],
+      "price": 9540000   
+    },
+    {
+      "id": "dongho16",
+      "name": "VERSACE VANITAS ROSE GOLD WATCH 40MM",
+      "images": [
+        { "id": "image1", "url": "https://i.ibb.co/D9Nfpjt/12-480x480.jpg" },
+        {"id":"image2","url":"https://i.ibb.co/p1yhXv2/3-480x480.jpg"}
+      
+        
+   
+      ],
+      "category": ["dong-ho-nu","san-pham-hot"],
+      "price": 38100000    
+    }
+  ]
+}

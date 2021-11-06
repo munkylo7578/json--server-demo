@@ -1,0 +1,27 @@
+# @name getCars
+GET http://localhost:8888/api/danh-muc?id=dongho5
+
+###
+
+###
+# @name changeCar
+PATCH http://localhost:8888/api/cars/2
+Content-Type: application/json
+
+{
+    "name":"ferari"
+}
+
+###
+# @name addCars
+Post http://localhost:8888/api/cars
+Content-Type: application/json
+
+{
+    "name":"bently"
+}
+
+
+
+
+
